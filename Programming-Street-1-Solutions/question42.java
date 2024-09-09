@@ -5,7 +5,7 @@ public class question42 {
         {
             System.out.print(n);
         }
-        return fibbo(n-1) + fibbo(n-2);
+        //return fibbo(n-1) + fibbo(n-2);
     }
     public static void main(String args[])
     {

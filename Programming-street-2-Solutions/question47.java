@@ -1,5 +1,5 @@
 
-sdfaefasdfa
+
 public class question47 {
     public static void main(String args[])
     {
@@ -12,7 +12,6 @@ public class question47 {
             System.out.println("[ " + arr[i-2] +", "+ arr[i-1] + ", " + arr[i] + " ]");
            }
        }
-    }sfasdfagaefasf
-    ..s.dfa;fasfasf;sfasdfagaefasfasfsa
+    }
     
 }
